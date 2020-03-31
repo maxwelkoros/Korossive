@@ -1,6 +1,6 @@
 ---
 date: '2017-07-21'
-title: 'Electricity of Ghana'
+title: 'Electricity Company of Ghana'
 image: ''
 github: ''
 external: ''
