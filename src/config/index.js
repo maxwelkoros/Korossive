@@ -4,9 +4,9 @@ module.exports = {
     'Maxwel Koros is a software engineer based in Nairobi, Kenya who specializes in the design and implementation of scalable, highly available APIs in Ruby, Go and GraphQL.',
   siteKeywords:
     'Maxwel Koros, Korossive, Koros, software engineer, software developer, backend engineer, php developer, android',
-  siteUrl: 'https://collinsruto.com',
-  blogUrl: 'https://blog.collinsruto.com',
-  coursesUrl: 'https://www.codingshade.com',
+  //siteUrl: 'https://collinsruto.com',
+  //blogUrl: 'https://blog.collinsruto.com',
+  //coursesUrl: 'https://www.codingshade.com',
   siteLanguage: 'en_US',
 
   googleVerification: 'process.env.GOOGLE_VERIFICATION',
