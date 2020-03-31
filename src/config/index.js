@@ -25,7 +25,7 @@ module.exports = {
       url: 'https://www.linkedin.com/in/korossive/',
     },
     {
-      name: 'Stackoverflow',
+      name: 'Codepen',
       url: 'https://stackoverflow.com/users/13137603/korossive',
     },
     {
