@@ -1,7 +1,8 @@
 module.exports = {
   siteTitle: 'Korossive | Software Engineer',
   siteDescription:
-    'Maxwel Koros is a software engineer based in Nairobi, Kenya who specializes in the design and implementation of scalable, highly available APIs in Ruby, Go and GraphQL.',
+    'Maxwel Koros is a software engineer based in Nairobi, Kenya skilled
+     in Java, Oracle PL/SQL, MySQL, PowerBuilder, PHP, CSS, Javascript , C/C++, and Application Programming Interfaces.',
   siteKeywords:
     'Maxwel Koros, Korossive, Koros, software engineer, software developer, backend engineer, php developer, android',
   siteUrl: 'https://www.maxwelkoros.com',
