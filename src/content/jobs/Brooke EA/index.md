@@ -7,6 +7,9 @@ range: 'Feb 2017 - Dec 2018'
 url: 'https://www.thebrooke.org/'
 ---
 
-- Leading in the development, roll out and day to day management of the Mpunda Android App
-- Developing new strategies and IT procedures to increase efficiency, enhance workflow and improve customer satisfaction
-- Monitoring and ensuring issues reported on the IT Help desk are resolved in a timely fashion
+- Evaluate existing applications to reprogram, update and add new features
+- Leading in the development, roll out of the M-Punda Android App
+- Perform unit and integration testing before launch
+- Conduct functional and non-functional testing
+- Develop technical documents and handbooks to accurately represent application design and code
+- Troubleshoot and debug applications
