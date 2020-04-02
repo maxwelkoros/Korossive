@@ -11,4 +11,4 @@ tech:
 show: 'true'
 ---
 
-M-Punda is an Android Mobile Application that links to farmers and vets in Kenya and development specialists together on one platform to get access to information and exchange best practices in Kenya
+M-Punda is an Android Mobile Application that links farmers to vets in Kenya and development specialists together on one platform to get access to information and exchange best practices in Kenya
