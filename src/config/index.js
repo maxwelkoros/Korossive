@@ -5,7 +5,7 @@ module.exports = {
   siteKeywords:
     'Maxwel Koros, Korossive, Koros, software engineer, software developer, backend engineer, php developer, android',
   siteUrl: 'https://www.maxwelkoros.com',
-  blogUrl: 'https://www.maxwelkoros.com',
+  blogUrl: 'https://korossive.hashnode.dev/',
   coursesUrl: 'https://www.maxwelkoros.com',
   siteLanguage: 'en_US',
 

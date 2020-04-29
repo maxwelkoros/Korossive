@@ -1,11 +1,11 @@
 {
-  "name": "maxwelkoros.com",
-  "description": "Koros Personal Website",
+  "name": "collinsruto.com",
+  "description": "Kaka's Personal Website",
   "version": "1.0.0",
-  "author": "Maxwel Koros <maxwelkoros@gmail.com>",
+  "author": "Collins Ruto <kaka@collinsruto.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxwelkoros/maxwelkorosyar"
+    "url": "https://github.com/borenho/portfolio"
   },
   "keywords": [
     "gatsby"
