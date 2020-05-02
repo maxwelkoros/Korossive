@@ -1,6 +1,6 @@
 ---
 date: '2017-05-10'
-title: 'NewsDroid App(in prog)'
+title: 'NewsDroid App (in prog)'
 image: ''
 github: 'https://github.com/maxwelkoros/NewsDroid'
 external: ''
